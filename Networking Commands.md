@@ -1,43 +1,49 @@
-# Shell Programming Commands
+# Networking Commands
 
 ````bash
-command
+ipconfig
 ````
 
 ````bash
-echo
-````
-
-
-
-````bash
-printf
+ping
 ````
 
 ````bash
-read
+traceroute
 ````
 
 ````bash
-sh
+netstat
 ````
 
 ````bash
-sleep
+dig
 ````
 
 ````bash
-tee
+nslookup
 ````
 
 ````bash
-test
+route
 ````
 
 ````bash
-true
+host
 ````
 
 ````bash
-false
+arp
+````
+
+````bash
+ethtool
+````
+
+````bash
+iwconfig
+````
+
+````bash
+hostname
 ````

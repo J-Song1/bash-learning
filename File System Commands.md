@@ -66,3 +66,11 @@ locate
 ````bash
 chmod
 ````
+
+````bash
+zip
+````
+
+````bash
+unzip
+````
