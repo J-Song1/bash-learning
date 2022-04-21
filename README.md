@@ -1,1 +1,6 @@
-# bash-learning
+# Bash Learning Roadmap for Joon
+
+### Commands
+- 
+
+
